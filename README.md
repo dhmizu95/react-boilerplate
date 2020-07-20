@@ -9,7 +9,7 @@ Please, follow the instruction below to start the React Boilerplate quickly.
 ##### Clone repository
 
 ```
-$ git clone https://github.com/dhmizu95/react-boilerplate.git
+$ git clone https://github.com/dhmizu95/react-boilerplate.git project_name
 ```
 
 ##### Install dependencies
@@ -25,7 +25,7 @@ $ npm install
 $ npm start
 ```
 
-Webpack Development Server will start at: http://localhost:3000
+Development server will start at: http://localhost:3000
 
 ##### Builds the app for production to the `build` folder.
 
