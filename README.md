@@ -9,7 +9,7 @@ Please, follow the instruction below to start the React Boilerplate quickly.
 ##### Clone repository
 
 ```
-$ git clone https://github.com/dhmizu95/react-boilerplate.git project_name
+$ git clone https://github.com/dhmizu95/react-boilerplate.git project-name
 ```
 
 ##### Install dependencies
