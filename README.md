@@ -25,7 +25,7 @@ $ npm install
 $ npm start
 ```
 
-Express server will start at: http://localhost:3000
+Webpack Development Server will start at: http://localhost:3000
 
 ##### Builds the app for production to the `build` folder.
 
